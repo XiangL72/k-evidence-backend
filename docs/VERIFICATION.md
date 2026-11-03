@@ -10,7 +10,7 @@ Hibernate's new database-error logger is disabled, preserving the existing polic
 
 ## Executed checks
 
-`./mvnw -B verify` passed locally: 178 unit tests and 15 integration tests, zero failures, errors or skips. PostgreSQL 17.6 ran in disposable Testcontainers containers on random ports. Checks cover HTTP validation, transaction rollback, save/reopen, application restart, source bytes and hashes, and historical analysis schemas. No development database or existing application service was used. Local runtime was JDK 23 with Java 21 compilation target; the GitHub workflow specifies JDK 21 but has not yet run in the new repository.
+`./mvnw -B verify` passed locally: 178 unit tests and 15 integration tests, zero failures, errors or skips. PostgreSQL 17.6 ran in disposable Testcontainers containers on random ports. Checks cover HTTP validation, transaction rollback, save/reopen, application restart, source bytes and hashes, and historical analysis schemas. No development database or existing application service was used. Local runtime was JDK 23 with Java 21 compilation target; the [GitHub backend workflow](https://github.com/XiangL72/k-evidence-backend/actions/runs/41675997795) also passed with JDK 21 on 2026-11-03.
 
 The final run also confirmed that the deliberately triggered database failure no longer appeared through Hibernate's renamed error logger.
 
