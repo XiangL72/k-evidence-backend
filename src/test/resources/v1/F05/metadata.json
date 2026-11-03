@@ -1,0 +1,8 @@
+{
+  "id": "F05",
+  "title": "条件与期限同时修改",
+  "relation": "SUPPLEMENT",
+  "synthetic": true,
+  "deferredChecks": [],
+  "b1RuleCase": true
+}

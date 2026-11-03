@@ -1,0 +1,24 @@
+{
+  "changes": [
+    {
+      "kind": "PAYMENT",
+      "itemLabel": "尾款",
+      "field": "AMOUNT",
+      "method": "EXACT_CLAUSE_ID",
+      "targetStatus": "UNIQUE",
+      "oldSource": {
+        "versionId": "v1",
+        "startUtf16": 23,
+        "endUtf16Exclusive": 33,
+        "quote": "人民币50,000元"
+      },
+      "newSource": {
+        "versionId": "v2",
+        "startUtf16": 23,
+        "endUtf16Exclusive": 33,
+        "quote": "人民币60,000元"
+      }
+    }
+  ],
+  "findings": []
+}

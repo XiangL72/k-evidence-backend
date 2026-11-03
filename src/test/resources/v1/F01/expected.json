@@ -1,0 +1,24 @@
+{
+  "changes": [
+    {
+      "kind": "CONTRACT_AMOUNT",
+      "itemLabel": "合同总价",
+      "field": "AMOUNT",
+      "method": "EXACT_CLAUSE_ID",
+      "targetStatus": "UNIQUE",
+      "oldSource": {
+        "versionId": "v1",
+        "startUtf16": 8,
+        "endUtf16Exclusive": 19,
+        "quote": "人民币100,000元"
+      },
+      "newSource": {
+        "versionId": "v2",
+        "startUtf16": 8,
+        "endUtf16Exclusive": 19,
+        "quote": "人民币120,000元"
+      }
+    }
+  ],
+  "findings": []
+}

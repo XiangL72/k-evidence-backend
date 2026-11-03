@@ -1,0 +1,8 @@
+{
+  "id": "A07",
+  "relation": "SUPPLEMENT",
+  "metadataType": "SIGNED_ON",
+  "metadataCount": 2,
+  "metadataStatus": "AMBIGUOUS",
+  "requiredItemTypes": ["DELIVERY_DEADLINE"]
+}

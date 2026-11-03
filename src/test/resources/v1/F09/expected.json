@@ -1,0 +1,11 @@
+{
+  "changes": [],
+  "findings": [
+    {
+      "reasonCode": "COMPLEX_SPLIT",
+      "targetStatus": "UNRESOLVED",
+      "method": "EXPLICIT_REFERENCE",
+      "candidateCount": 1
+    }
+  ]
+}

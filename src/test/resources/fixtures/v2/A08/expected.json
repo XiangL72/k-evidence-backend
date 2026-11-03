@@ -1,0 +1,11 @@
+{
+  "id": "A08",
+  "relation": "SUPPLEMENT",
+  "requiredItemTypes": [
+    "GOODS_NAME",
+    "QUANTITY",
+    "SPECIFICATION",
+    "QUALITY"
+  ],
+  "unassociatedMin": 1
+}

@@ -1,0 +1,11 @@
+{
+  "changes": [],
+  "findings": [
+    {
+      "reasonCode": "DUPLICATE_REFERENCE",
+      "targetStatus": "AMBIGUOUS",
+      "method": "EXPLICIT_REFERENCE",
+      "candidateCount": 2
+    }
+  ]
+}

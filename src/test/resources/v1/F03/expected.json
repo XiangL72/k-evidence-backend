@@ -1,0 +1,24 @@
+{
+  "changes": [
+    {
+      "kind": "DELIVERY",
+      "itemLabel": "第一批",
+      "field": "DELIVERY_DEADLINE",
+      "method": "EXACT_CLAUSE_ID",
+      "targetStatus": "UNIQUE",
+      "oldSource": {
+        "versionId": "v1",
+        "startUtf16": 15,
+        "endUtf16Exclusive": 25,
+        "quote": "2026年11月1日"
+      },
+      "newSource": {
+        "versionId": "v2",
+        "startUtf16": 15,
+        "endUtf16Exclusive": 26,
+        "quote": "2026年11月15日"
+      }
+    }
+  ],
+  "findings": []
+}

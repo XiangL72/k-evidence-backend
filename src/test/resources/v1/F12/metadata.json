@@ -1,0 +1,10 @@
+{
+  "id": "F12",
+  "title": "emoji和CRLF定位",
+  "relation": "REVISION",
+  "synthetic": true,
+  "deferredChecks": [
+    "浏览器HTML安全渲染"
+  ],
+  "b1RuleCase": true
+}

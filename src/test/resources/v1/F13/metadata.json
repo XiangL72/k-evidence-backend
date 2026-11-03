@@ -1,0 +1,11 @@
+{
+  "id": "F13",
+  "title": "输入解码与原子保存",
+  "relation": "REVISION",
+  "synthetic": true,
+  "deferredChecks": [
+    "B2: UTF-8/BOM/非法编码/NUL/大小/文件数",
+    "B2: 两文件原子事务"
+  ],
+  "b1RuleCase": false
+}

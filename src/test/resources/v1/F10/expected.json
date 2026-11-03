@@ -1,0 +1,24 @@
+{
+  "changes": [
+    {
+      "kind": "LIABILITY_TEXT",
+      "itemLabel": "责任条款",
+      "field": "TEXT",
+      "method": "EXACT_CLAUSE_ID",
+      "targetStatus": "UNIQUE",
+      "oldSource": {
+        "versionId": "v1",
+        "startUtf16": 0,
+        "endUtf16Exclusive": 26,
+        "quote": "第五条 违约责任\n逾期按合同总价的1%支付违约金。\n"
+      },
+      "newSource": {
+        "versionId": "v2",
+        "startUtf16": 0,
+        "endUtf16Exclusive": 26,
+        "quote": "第五条 违约责任\n逾期按合同总价的2%支付违约金。\n"
+      }
+    }
+  ],
+  "findings": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "F14",
+  "title": "历史分析恢复",
+  "relation": "REVISION",
+  "synthetic": true,
+  "deferredChecks": [
+    "B2/B5: 保存、重启、规则升级后旧快照不变"
+  ],
+  "b1RuleCase": false
+}

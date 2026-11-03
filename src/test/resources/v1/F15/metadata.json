@@ -1,0 +1,10 @@
+{
+  "id": "F15",
+  "title": "计算预算与并发",
+  "relation": "REVISION",
+  "synthetic": true,
+  "deferredChecks": [
+    "B3/B5: diff工作预算、并发429、资源释放、请求重试"
+  ],
+  "b1RuleCase": false
+}

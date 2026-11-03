@@ -1,0 +1,8 @@
+{
+  "id": "F08",
+  "title": "不存在的引用",
+  "relation": "SUPPLEMENT",
+  "synthetic": true,
+  "deferredChecks": [],
+  "b1RuleCase": true
+}

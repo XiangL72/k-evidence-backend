@@ -1,0 +1,8 @@
+{
+  "id": "F03",
+  "title": "两个批次仅第一批期限变化",
+  "relation": "REVISION",
+  "synthetic": true,
+  "deferredChecks": [],
+  "b1RuleCase": true
+}

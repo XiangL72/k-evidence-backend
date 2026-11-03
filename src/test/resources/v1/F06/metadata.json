@@ -1,0 +1,8 @@
+{
+  "id": "F06",
+  "title": "无引用不猜目标",
+  "relation": "SUPPLEMENT",
+  "synthetic": true,
+  "deferredChecks": [],
+  "b1RuleCase": true
+}

@@ -1,0 +1,10 @@
+{
+  "id": "A09",
+  "relation": "SUPPLEMENT",
+  "itemType": "OTHER_CLAUSE",
+  "status": "NOT_DETECTED",
+  "candidateCategories": [
+    "ACCEPTANCE",
+    "REMEDIES"
+  ]
+}

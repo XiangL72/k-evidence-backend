@@ -1,0 +1,8 @@
+{
+  "id": "F02",
+  "title": "多笔款项仅尾款变化",
+  "relation": "REVISION",
+  "synthetic": true,
+  "deferredChecks": [],
+  "b1RuleCase": true
+}

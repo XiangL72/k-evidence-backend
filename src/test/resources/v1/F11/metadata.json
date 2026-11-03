@@ -1,0 +1,10 @@
+{
+  "id": "F11",
+  "title": "文件顺序不是日期排序",
+  "relation": "REVISION",
+  "synthetic": true,
+  "deferredChecks": [
+    "日期列表UI"
+  ],
+  "b1RuleCase": true
+}

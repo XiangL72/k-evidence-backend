@@ -1,0 +1,8 @@
+{
+  "id": "F01",
+  "title": "总价与违约金分开",
+  "relation": "REVISION",
+  "synthetic": true,
+  "deferredChecks": [],
+  "b1RuleCase": true
+}

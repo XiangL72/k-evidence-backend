@@ -1,0 +1,24 @@
+{
+  "changes": [
+    {
+      "kind": "PAYMENT",
+      "itemLabel": "尾款",
+      "field": "PAYMENT_DEADLINE",
+      "method": "EXPLICIT_REFERENCE",
+      "targetStatus": "UNIQUE",
+      "oldSource": {
+        "versionId": "v1",
+        "startUtf16": 15,
+        "endUtf16Exclusive": 20,
+        "quote": "验收后十日"
+      },
+      "newSource": {
+        "versionId": "v2",
+        "startUtf16": 31,
+        "endUtf16Exclusive": 37,
+        "quote": "验收后二十日"
+      }
+    }
+  ],
+  "findings": []
+}

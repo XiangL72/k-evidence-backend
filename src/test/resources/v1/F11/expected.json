@@ -1,0 +1,43 @@
+{
+  "changes": [
+    {
+      "kind": "PAYMENT",
+      "itemLabel": "尾款",
+      "field": "PAYMENT_DEADLINE",
+      "method": "EXACT_CLAUSE_ID",
+      "targetStatus": "UNIQUE",
+      "oldSource": {
+        "versionId": "v1",
+        "startUtf16": 7,
+        "endUtf16Exclusive": 12,
+        "quote": "验收后十日"
+      },
+      "newSource": {
+        "versionId": "v2",
+        "startUtf16": 7,
+        "endUtf16Exclusive": 13,
+        "quote": "验收后十五日"
+      }
+    },
+    {
+      "kind": "DELIVERY",
+      "itemLabel": "第一批",
+      "field": "DELIVERY_DEADLINE",
+      "method": "EXACT_CLAUSE_ID",
+      "targetStatus": "UNIQUE",
+      "oldSource": {
+        "versionId": "v1",
+        "startUtf16": 28,
+        "endUtf16Exclusive": 38,
+        "quote": "2026年12月1日"
+      },
+      "newSource": {
+        "versionId": "v2",
+        "startUtf16": 29,
+        "endUtf16Exclusive": 39,
+        "quote": "2026年11月1日"
+      }
+    }
+  ],
+  "findings": []
+}

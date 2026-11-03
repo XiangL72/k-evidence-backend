@@ -1,0 +1,43 @@
+{
+  "changes": [
+    {
+      "kind": "PAYMENT",
+      "itemLabel": "尾款",
+      "field": "CONDITION",
+      "method": "EXPLICIT_REFERENCE",
+      "targetStatus": "UNIQUE",
+      "oldSource": {
+        "versionId": "v1",
+        "startUtf16": 14,
+        "endUtf16Exclusive": 18,
+        "quote": "验收合格"
+      },
+      "newSource": {
+        "versionId": "v2",
+        "startUtf16": 24,
+        "endUtf16Exclusive": 28,
+        "quote": "收到发票"
+      }
+    },
+    {
+      "kind": "PAYMENT",
+      "itemLabel": "尾款",
+      "field": "PAYMENT_DEADLINE",
+      "method": "EXPLICIT_REFERENCE",
+      "targetStatus": "UNIQUE",
+      "oldSource": {
+        "versionId": "v1",
+        "startUtf16": 14,
+        "endUtf16Exclusive": 21,
+        "quote": "验收合格后十日"
+      },
+      "newSource": {
+        "versionId": "v2",
+        "startUtf16": 44,
+        "endUtf16Exclusive": 52,
+        "quote": "收到发票后二十日"
+      }
+    }
+  ],
+  "findings": []
+}

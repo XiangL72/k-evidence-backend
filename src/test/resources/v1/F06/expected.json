@@ -1,0 +1,11 @@
+{
+  "changes": [],
+  "findings": [
+    {
+      "reasonCode": "NO_EXPLICIT_REFERENCE",
+      "targetStatus": "UNRESOLVED",
+      "method": "NONE",
+      "candidateCount": 0
+    }
+  ]
+}

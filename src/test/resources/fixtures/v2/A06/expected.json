@@ -1,0 +1,8 @@
+{
+  "id": "A06",
+  "relation": "SUPPLEMENT",
+  "itemType": "PAYMENT_AMOUNT",
+  "rowCount": 3,
+  "changedMin": 1,
+  "itemCounts": {"DELIVERY_DEADLINE": 2}
+}
